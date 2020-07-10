@@ -13,7 +13,19 @@ Git Playground
     
 
     871adf Commit 1    --- newer commit --┐
+    0c3317 Commitit 1    --- newer commit --┐
     0c3317 Commit 2                       |-- Join these into one
+    87871a Commit 3                       |
+    643d0e commit 4    --------------it 1    --- newer commit --┐
+    0c3317 Commit 2                       |-- Join these into one
+    87871a Commit 3                       |
+    643d0e commit 4    --------------it 1    --- newer commit --┐
+    0c3317 Commit 2                       |-- Join these into one
+    87871a Commit 3                       |
+    643d0e commit 4    --------------it 1    --- newer commit --┐
+    0c3317 Commit 2                       |-- Join these into one
+    87871a Commit 3                       |
+    643d0e commit 4    -------------- 2                       |-- Join these into one
     87871a Commit 3                       |
     643d0e commit 4    -------------------┘
     6394dc Another Feature
