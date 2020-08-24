@@ -19,3 +19,5 @@ Git Playground
     6394dc Another Feature
 
 [Source](https://www.internalpointers.com/post/squash-commits-into-one-git)
+
+conflict.
